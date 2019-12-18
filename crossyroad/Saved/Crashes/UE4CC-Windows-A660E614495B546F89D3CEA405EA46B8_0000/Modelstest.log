@@ -1,0 +1,1314 @@
+﻿Log file open, 11/19/19 18:00:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Modelstest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083819
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:183][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.20-02.00.28:183][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.20-02.00.28:184][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:184][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:186][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.20-02.00.28:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.20-02.00.28:187][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.20-02.00.28:187][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.20-02.00.28:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.20-02.00.28:191][  0]LogHAL: Display: Platform has ~ 16 GB [17035116544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.20-02.00.28:191][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.20-02.00.28:191][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.20-02.00.28:191][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.20-02.00.28:192][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Config/Windows/Engine.ini]
+[2019.11.20-02.00.28:192][  0]LogInit: Computer: DAVID-LAPTOP
+[2019.11.20-02.00.28:193][  0]LogInit: User: david
+[2019.11.20-02.00.28:193][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.20-02.00.28:193][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.20-02.00.28:193][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.20-02.00.28:193][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.20-02.00.28:193][  0]LogMemory: Process Physical Memory: 99.79 MB used, 99.79 MB peak
+[2019.11.20-02.00.28:193][  0]LogMemory: Process Virtual Memory: 99.38 MB used, 99.38 MB peak
+[2019.11.20-02.00.28:193][  0]LogMemory: Physical Memory: 7520.69 MB used,  8725.26 MB free, 16245.95 MB total
+[2019.11.20-02.00.28:193][  0]LogMemory: Virtual Memory: 4666.75 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.20-02.00.28:197][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.20-02.00.28:223][  0]LogInit: Using OS detected language (en-US).
+[2019.11.20-02.00.28:223][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.20-02.00.28:224][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.20-02.00.28:403][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.20-02.00.28:460][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.20-02.00.28:460][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.20-02.00.28:688][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.20-02.00.28:688][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.20-02.00.28:769][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.11.20-02.00.28:769][  0]LogD3D11RHI:       4021/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.20-02.00.28:789][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.20-02.00.28:789][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.20-02.00.28:792][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.20-02.00.28:792][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.20-02.00.28:792][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.20-02.00.28:836][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.20-02.00.28:836][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.11.20-02.00.28:836][  0]LogWindows: EnumDisplayDevices:
+[2019.11.20-02.00.28:836][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.11.20-02.00.28:836][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.20-02.00.28:837][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.20-02.00.28:837][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.20-02.00.28:837][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.11.20-02.00.28:837][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.20-02.00.28:837][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.20-02.00.28:837][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.11.20-02.00.28:887][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.20-02.00.28:945][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.20-02.00.29:265][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.20-02.00.29:274][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.20-02.00.29:284][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.20-02.00.29:293][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.20-02.00.29:303][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.20-02.00.29:313][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.20-02.00.29:322][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.20-02.00.29:331][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.20-02.00.29:336][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.20-02.00.29:369][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.20-02.00.29:371][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.20-02.00.29:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.20-02.00.29:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.20-02.00.29:404][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.20-02.00.29:404][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.20-02.00.29:412][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.20-02.00.29:419][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.20-02.00.29:426][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.20-02.00.29:434][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.20-02.00.29:458][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.20-02.00.29:458][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.20-02.00.29:458][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.20-02.00.29:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.20-02.00.29:527][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Intermediate/Shaders/WorkingDirectory/5612/).
+[2019.11.20-02.00.29:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/david/AppData/Local/Temp/UnrealShaderWorkingDir/163A53BB44FBAF1A13A746AB034B327A/'.
+[2019.11.20-02.00.29:530][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.20-02.00.29:530][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.20-02.00.29:530][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.20-02.00.30:152][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/david/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/david/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.20-02.00.30:200][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.20-02.00.30:211][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.20-02.00.30:211][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.20-02.00.30:211][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.20-02.00.30:213][  0]LogDerivedDataCache: Using Local data cache path C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.20-02.00.30:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.20-02.00.30:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.20-02.00.30:236][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.20-02.00.30:238][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.20-02.00.30:239][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.20-02.00.30:296][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.11.20-02.00.30:575][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.20-02.00.30:739][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.20-02.00.30:739][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.20-02.00.30:739][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.20-02.00.30:739][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.20-02.00.30:739][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.20-02.00.30:749][  0]LogNetVersion: Modelstest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3164401633)
+[2019.11.20-02.00.31:222][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.062523 seconds
+[2019.11.20-02.00.31:229][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.20-02.00.31:229][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.20-02.00.31:229][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.20-02.00.32:135][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.20-02.00.32:181][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.20-02.00.32:234][  0]SourceControl: Source control is disabled
+[2019.11.20-02.00.32:235][  0]SourceControl: Source control is disabled
+[2019.11.20-02.00.32:236][  0]SourceControl: Source control is disabled
+[2019.11.20-02.00.32:237][  0]SourceControl: Source control is disabled
+[2019.11.20-02.00.32:244][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.20-02.00.32:245][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.20-02.00.32:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.20-02.00.32:434][  0]LogOcInput: OculusInput pre-init called
+[2019.11.20-02.00.32:441][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.20-02.00.32:441][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.20-02.00.32:513][  0]LogEngine: Initializing Engine...
+[2019.11.20-02.00.32:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.20-02.00.32:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.20-02.00.32:741][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.20-02.00.32:760][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.20-02.00.32:771][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-02.00.32:858][  0]LogInit: FAudioDevice initialized.
+[2019.11.20-02.00.32:858][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.20-02.00.32:990][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/david/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.20-02.00.33:000][  0]LogInit: Texture streaming: Enabled
+[2019.11.20-02.00.33:020][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.20-02.00.33:050][  0]LogInit: Transaction tracking system initialized
+[2019.11.20-02.00.33:086][  0]BlueprintLog: New page: Editor Load
+[2019.11.20-02.00.33:209][  0]LocalizationService: Localization service is disabled
+[2019.11.20-02.00.33:334][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.20-02.00.33:335][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.20-02.00.33:530][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Documents/Unreal Projects/Modelstest/Content/' took 0.00s
+[2019.11.20-02.00.33:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.20-02.00.33:532][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.20-02.00.33:745][  0]SourceControl: Source control is disabled
+[2019.11.20-02.00.33:745][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.20-02.00.33:746][  0]LightingResults: New page: Lighting Build
+[2019.11.20-02.00.33:749][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.00.33:749][  0]MapCheck: New page: Map Check
+[2019.11.20-02.00.33:749][  0]LightingResults: New page: Lighting Build
+[2019.11.20-02.00.33:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.11.20-02.00.33:858][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.20-02.00.33:867][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.20-02.00.33:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.20-02.00.33:893][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.20-02.00.33:893][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.11.20-02.00.33:893][  0]LogFileHelpers: Loading map 'Template_Default' took 0.148
+[2019.11.20-02.00.33:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.00.33:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.00.34:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.00.34:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-02.00.34:024][  0]LogCollectionManager: Loaded 0 collections in 0.002100 seconds
+[2019.11.20-02.00.34:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Documents/Unreal Projects/Modelstest/Saved/Collections/' took 0.00s
+[2019.11.20-02.00.34:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Documents/Unreal Projects/Modelstest/Content/Developers/david/Collections/' took 0.00s
+[2019.11.20-02.00.34:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/david/Documents/Unreal Projects/Modelstest/Content/Collections/' took 0.00s
+[2019.11.20-02.00.34:033][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.20-02.00.34:041][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2863 classes and 680 folders.
+[2019.11.20-02.00.34:048][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.20-02.00.34:089][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.20-02.00.34:095][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.20-02.00.34:155][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.20-02.00.34:157][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.20-02.00.34:163][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.20-02.00.34:231][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.20-02.00.34:367][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.20-02.00.34:368][  0]LogLoad: (Engine Initialization) Total time: 7.48 seconds
+[2019.11.20-02.00.34:368][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.20-02.00.34:422][  0]LogAssetRegistry: Asset discovery search completed in 4.1266 seconds
+[2019.11.20-02.00.34:425][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.20-02.00.34:425][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.11.20-02.00.34:427][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.20-02.01.02:885][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.03.39:962][711]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.20-02.03.39:982][711]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree3.png)
+[2019.11.20-02.03.39:984][711]LogTexture: Display: Building textures: tree3 (BGRA8, 256X1)
+[2019.11.20-02.03.40:033][711]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.20-02.03.45:404][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.11.20-02.03.47:380][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.20-02.03.47:461][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.20-02.04.00:970][172]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\david\Dropbox\MagicaVoxel-0.99.4.2-alpha-win64\palette\CrossyRoad.png)
+[2019.11.20-02.04.00:972][172]LogTexture: Display: Building textures: CrossyRoad (BGRA8, 256X1)
+[2019.11.20-02.05.19:473][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car1.obj)
+[2019.11.20-02.05.19:494][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car1.obj
+[2019.11.20-02.05.19:500][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:230][455]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.20-02.05.23:422][455]LogLinker: Failed to load '/Game/car1': Can't find file.
+[2019.11.20-02.05.23:423][455]LogFbxMaterialImport: Warning: Unable to find Texture file ..\..\..\..\..\..\Users\david\Documents\Unreal Projects\Modelstest\Content\Models\car1.png
+[2019.11.20-02.05.23:431][455]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.11.20-02.05.23:482][455]LogStaticMesh: Building static mesh car1...
+[2019.11.20-02.05.23:488][455]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.11.20-02.05.23:488][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.11.20-02.05.23:488][455]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.11.20-02.05.23:488][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.20-02.05.23:488][455]LogStaticMesh: Built static mesh [0.01s] /Game/car1.car1
+[2019.11.20-02.05.23:489][455]LogStaticMesh: Warning: car1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:489][455]LogStaticMesh: Warning: car1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:497][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:498][455]FBXImport: Warning: car1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:498][455]FBXImport: Warning: car1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:519][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car2.obj)
+[2019.11.20-02.05.23:538][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car2.obj
+[2019.11.20-02.05.23:550][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:561][455]LogStaticMesh: Building static mesh car2...
+[2019.11.20-02.05.23:567][455]LogStaticMesh: Built static mesh [0.01s] /Game/car2.car2
+[2019.11.20-02.05.23:568][455]LogStaticMesh: Warning: car2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:568][455]LogStaticMesh: Warning: car2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:579][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:579][455]FBXImport: Warning: car2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:579][455]FBXImport: Warning: car2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:586][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car3.obj)
+[2019.11.20-02.05.23:602][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car3.obj
+[2019.11.20-02.05.23:608][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:616][455]LogStaticMesh: Building static mesh car3...
+[2019.11.20-02.05.23:620][455]LogStaticMesh: Built static mesh [0.00s] /Game/car3.car3
+[2019.11.20-02.05.23:621][455]LogStaticMesh: Warning: car3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:621][455]LogStaticMesh: Warning: car3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:632][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:632][455]FBXImport: Warning: car3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:632][455]FBXImport: Warning: car3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:640][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/chicken.obj)
+[2019.11.20-02.05.23:657][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/chicken.obj
+[2019.11.20-02.05.23:663][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:676][455]LogStaticMesh: Building static mesh chicken...
+[2019.11.20-02.05.23:679][455]LogStaticMesh: Built static mesh [0.01s] /Game/chicken.chicken
+[2019.11.20-02.05.23:680][455]LogStaticMesh: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:680][455]LogStaticMesh: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:690][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:690][455]FBXImport: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:690][455]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:697][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj)
+[2019.11.20-02.05.23:710][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj
+[2019.11.20-02.05.23:713][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:718][455]LogStaticMesh: Building static mesh lanegrass...
+[2019.11.20-02.05.23:718][455]LogStaticMesh: Built static mesh [0.00s] /Game/lanegrass.lanegrass
+[2019.11.20-02.05.23:719][455]LogStaticMesh: Warning: lanegrass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:719][455]LogStaticMesh: Warning: lanegrass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:730][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:730][455]FBXImport: Warning: lanegrass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:730][455]FBXImport: Warning: lanegrass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:736][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanerailroad.obj)
+[2019.11.20-02.05.23:750][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanerailroad.obj
+[2019.11.20-02.05.23:766][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:774][455]LogStaticMesh: Building static mesh lanerailroad...
+[2019.11.20-02.05.23:781][455]LogStaticMesh: Built static mesh [0.01s] /Game/lanerailroad.lanerailroad
+[2019.11.20-02.05.23:782][455]LogStaticMesh: Warning: lanerailroad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:782][455]LogStaticMesh: Warning: lanerailroad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:794][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:794][455]FBXImport: Warning: lanerailroad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:794][455]FBXImport: Warning: lanerailroad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:802][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad1.obj)
+[2019.11.20-02.05.23:818][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad1.obj
+[2019.11.20-02.05.23:829][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:842][455]LogStaticMesh: Building static mesh laneroad1...
+[2019.11.20-02.05.23:844][455]LogStaticMesh: Built static mesh [0.01s] /Game/laneroad1.laneroad1
+[2019.11.20-02.05.23:845][455]LogStaticMesh: Warning: laneroad1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:845][455]LogStaticMesh: Warning: laneroad1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:856][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:856][455]FBXImport: Warning: laneroad1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:856][455]FBXImport: Warning: laneroad1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:863][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad2.obj)
+[2019.11.20-02.05.23:878][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad2.obj
+[2019.11.20-02.05.23:886][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:892][455]LogStaticMesh: Building static mesh laneroad2...
+[2019.11.20-02.05.23:893][455]LogStaticMesh: Built static mesh [0.00s] /Game/laneroad2.laneroad2
+[2019.11.20-02.05.23:894][455]LogStaticMesh: Warning: laneroad2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:894][455]LogStaticMesh: Warning: laneroad2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:904][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:904][455]FBXImport: Warning: laneroad2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:904][455]FBXImport: Warning: laneroad2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:910][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lilipad.obj)
+[2019.11.20-02.05.23:930][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lilipad.obj
+[2019.11.20-02.05.23:933][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:938][455]LogStaticMesh: Building static mesh lilipad...
+[2019.11.20-02.05.23:939][455]LogStaticMesh: Built static mesh [0.00s] /Game/lilipad.lilipad
+[2019.11.20-02.05.23:940][455]LogStaticMesh: Warning: lilipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:940][455]LogStaticMesh: Warning: lilipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.23:951][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.23:951][455]FBXImport: Warning: lilipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.23:951][455]FBXImport: Warning: lilipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.23:958][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/loglong.obj)
+[2019.11.20-02.05.23:972][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/loglong.obj
+[2019.11.20-02.05.23:981][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.23:989][455]LogStaticMesh: Building static mesh loglong...
+[2019.11.20-02.05.23:992][455]LogStaticMesh: Built static mesh [0.00s] /Game/loglong.loglong
+[2019.11.20-02.05.23:993][455]LogStaticMesh: Warning: loglong has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.23:993][455]LogStaticMesh: Warning: loglong has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:004][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:004][455]FBXImport: Warning: loglong has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:004][455]FBXImport: Warning: loglong has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:011][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/logshort.obj)
+[2019.11.20-02.05.24:033][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/logshort.obj
+[2019.11.20-02.05.24:038][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:051][455]LogStaticMesh: Building static mesh logshort...
+[2019.11.20-02.05.24:053][455]LogStaticMesh: Built static mesh [0.01s] /Game/logshort.logshort
+[2019.11.20-02.05.24:054][455]LogStaticMesh: Warning: logshort has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:054][455]LogStaticMesh: Warning: logshort has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:064][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:064][455]FBXImport: Warning: logshort has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:064][455]FBXImport: Warning: logshort has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:070][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/police.obj)
+[2019.11.20-02.05.24:083][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/police.obj
+[2019.11.20-02.05.24:089][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:097][455]LogStaticMesh: Building static mesh police...
+[2019.11.20-02.05.24:101][455]LogStaticMesh: Built static mesh [0.00s] /Game/police.police
+[2019.11.20-02.05.24:102][455]LogStaticMesh: Warning: police has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:103][455]LogStaticMesh: Warning: police has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:115][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:115][455]FBXImport: Warning: police has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:115][455]FBXImport: Warning: police has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:122][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/rrlights.obj)
+[2019.11.20-02.05.24:141][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/rrlights.obj
+[2019.11.20-02.05.24:153][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:160][455]LogStaticMesh: Building static mesh rrlights...
+[2019.11.20-02.05.24:164][455]LogStaticMesh: Built static mesh [0.00s] /Game/rrlights.rrlights
+[2019.11.20-02.05.24:165][455]LogStaticMesh: Warning: rrlights has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:165][455]LogStaticMesh: Warning: rrlights has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:177][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:177][455]FBXImport: Warning: rrlights has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:177][455]FBXImport: Warning: rrlights has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:184][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/scar.obj)
+[2019.11.20-02.05.24:199][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/scar.obj
+[2019.11.20-02.05.24:207][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:215][455]LogStaticMesh: Building static mesh scar...
+[2019.11.20-02.05.24:218][455]LogStaticMesh: Built static mesh [0.00s] /Game/scar.scar
+[2019.11.20-02.05.24:219][455]LogStaticMesh: Warning: scar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:219][455]LogStaticMesh: Warning: scar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:232][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:232][455]FBXImport: Warning: scar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:232][455]FBXImport: Warning: scar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:238][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/taxi.obj)
+[2019.11.20-02.05.24:257][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/taxi.obj
+[2019.11.20-02.05.24:269][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:280][455]LogStaticMesh: Building static mesh taxi...
+[2019.11.20-02.05.24:284][455]LogStaticMesh: Built static mesh [0.00s] /Game/taxi.taxi
+[2019.11.20-02.05.24:286][455]LogStaticMesh: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:286][455]LogStaticMesh: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:297][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:297][455]FBXImport: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:297][455]FBXImport: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:304][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train1.obj)
+[2019.11.20-02.05.24:320][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train1.obj
+[2019.11.20-02.05.24:346][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:363][455]LogStaticMesh: Building static mesh train1...
+[2019.11.20-02.05.24:371][455]LogStaticMesh: Built static mesh [0.01s] /Game/train1.train1
+[2019.11.20-02.05.24:373][455]LogStaticMesh: Warning: train1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:373][455]LogStaticMesh: Warning: train1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:387][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:387][455]FBXImport: Warning: train1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:387][455]FBXImport: Warning: train1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:395][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train2.obj)
+[2019.11.20-02.05.24:408][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train2.obj
+[2019.11.20-02.05.24:418][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:431][455]LogStaticMesh: Building static mesh train2...
+[2019.11.20-02.05.24:436][455]LogStaticMesh: Built static mesh [0.01s] /Game/train2.train2
+[2019.11.20-02.05.24:438][455]LogStaticMesh: Warning: train2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:438][455]LogStaticMesh: Warning: train2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:453][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:453][455]FBXImport: Warning: train2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:453][455]FBXImport: Warning: train2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:461][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train3.obj)
+[2019.11.20-02.05.24:474][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train3.obj
+[2019.11.20-02.05.24:489][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:500][455]LogStaticMesh: Building static mesh train3...
+[2019.11.20-02.05.24:508][455]LogStaticMesh: Built static mesh [0.01s] /Game/train3.train3
+[2019.11.20-02.05.24:511][455]LogStaticMesh: Warning: train3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:511][455]LogStaticMesh: Warning: train3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:523][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:523][455]FBXImport: Warning: train3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:523][455]FBXImport: Warning: train3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:531][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree1.obj)
+[2019.11.20-02.05.24:547][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree1.obj
+[2019.11.20-02.05.24:552][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:560][455]LogStaticMesh: Building static mesh tree1...
+[2019.11.20-02.05.24:561][455]LogStaticMesh: Built static mesh [0.00s] /Game/tree1.tree1
+[2019.11.20-02.05.24:562][455]LogStaticMesh: Warning: tree1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:562][455]LogStaticMesh: Warning: tree1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:573][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:573][455]FBXImport: Warning: tree1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:573][455]FBXImport: Warning: tree1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:582][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree2.obj)
+[2019.11.20-02.05.24:597][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree2.obj
+[2019.11.20-02.05.24:600][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:606][455]LogStaticMesh: Building static mesh tree2...
+[2019.11.20-02.05.24:607][455]LogStaticMesh: Built static mesh [0.00s] /Game/tree2.tree2
+[2019.11.20-02.05.24:607][455]LogStaticMesh: Warning: tree2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:608][455]LogStaticMesh: Warning: tree2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:619][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:619][455]FBXImport: Warning: tree2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:619][455]FBXImport: Warning: tree2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:626][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree3.obj)
+[2019.11.20-02.05.24:647][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree3.obj
+[2019.11.20-02.05.24:652][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:657][455]LogStaticMesh: Building static mesh tree3...
+[2019.11.20-02.05.24:658][455]LogStaticMesh: Built static mesh [0.00s] /Game/tree3.tree3
+[2019.11.20-02.05.24:659][455]LogStaticMesh: Warning: tree3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:659][455]LogStaticMesh: Warning: tree3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:671][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:671][455]FBXImport: Warning: tree3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:671][455]FBXImport: Warning: tree3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:678][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck1.obj)
+[2019.11.20-02.05.24:695][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck1.obj
+[2019.11.20-02.05.24:702][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:711][455]LogStaticMesh: Building static mesh truck1...
+[2019.11.20-02.05.24:716][455]LogStaticMesh: Built static mesh [0.00s] /Game/truck1.truck1
+[2019.11.20-02.05.24:717][455]LogStaticMesh: Warning: truck1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:717][455]LogStaticMesh: Warning: truck1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:728][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:728][455]FBXImport: Warning: truck1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:728][455]FBXImport: Warning: truck1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:736][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck2.obj)
+[2019.11.20-02.05.24:752][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck2.obj
+[2019.11.20-02.05.24:762][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:772][455]LogStaticMesh: Building static mesh truck2...
+[2019.11.20-02.05.24:775][455]LogStaticMesh: Built static mesh [0.00s] /Game/truck2.truck2
+[2019.11.20-02.05.24:777][455]LogStaticMesh: Warning: truck2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:777][455]LogStaticMesh: Warning: truck2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:788][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:788][455]FBXImport: Warning: truck2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:788][455]FBXImport: Warning: truck2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.24:797][455]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck3.obj)
+[2019.11.20-02.05.24:809][455]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck3.obj
+[2019.11.20-02.05.24:823][455]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.05.24:838][455]LogStaticMesh: Building static mesh truck3...
+[2019.11.20-02.05.24:847][455]LogStaticMesh: Built static mesh [0.01s] /Game/truck3.truck3
+[2019.11.20-02.05.24:849][455]LogStaticMesh: Warning: truck3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.05.24:849][455]LogStaticMesh: Warning: truck3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.05.24:863][455]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.05.24:863][455]FBXImport: Warning: truck3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.05.24:863][455]FBXImport: Warning: truck3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.05.28:163][624]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-02.05.28:167][624]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-02.05.38:376][230]LogMaterial: Display: Missing cached shader map for material CrossyRoad_Mat, compiling. 
+[2019.11.20-02.05.38:416][231]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.11.20-02.05.38:416][231]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.11.20-02.05.38:416][231]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.11.20-02.05.38:416][231]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.20-02.05.46:799][697]LogAssetEditorManager: Opening Asset editor for Material /Game/palette.palette
+[2019.11.20-02.05.46:804][697]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.11.20-02.05.47:150][697]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2019.11.20-02.05.47:176][697]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.11.20-02.05.47:177][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.11.20-02.05.47:177][697]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.11.20-02.05.47:177][697]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.11.20-02.05.47:177][697]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.20-02.05.47:223][697]LogSlate: Took 0.006847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.20-02.05.47:387][698]LogSlate: Took 0.011486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.20-02.05.47:514][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.11.20-02.05.47:559][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.11.20-02.05.47:578][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.11.20-02.05.47:595][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.11.20-02.05.47:799][717]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.11.20-02.05.47:901][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.11.20-02.05.47:942][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.11.20-02.05.47:964][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.11.20-02.05.48:140][734]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.11.20-02.05.48:410][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.11.20-02.05.48:701][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.20-02.05.48:723][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.11.20-02.05.48:914][770]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.11.20-02.05.49:144][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.20-02.05.49:206][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.11.20-02.05.49:476][797]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.11.20-02.05.49:586][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.20-02.05.49:752][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.11.20-02.05.49:876][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.20-02.05.50:041][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.20-02.05.50:177][830]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.11.20-02.05.50:183][830]MaterialEditorStats: Base pass shader: 119 instructions
+[2019.11.20-02.05.50:183][830]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2019.11.20-02.05.50:183][830]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.20-02.05.50:183][830]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.20-02.05.52:786][983]LogSlate: Window 'palette' being destroyed
+[2019.11.20-02.05.52:792][983]LogSlate: Window 'palette' being destroyed
+[2019.11.20-02.05.52:819][983]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.06.05:011][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.20-02.06.06:541][707]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.20-02.06.06:547][707]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/palette.palette
+[2019.11.20-02.06.07:166][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.11.20-02.06.22:432][591]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/car1.car1
+[2019.11.20-02.06.22:752][591]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2019.11.20-02.06.40:639][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/car1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car1.uasset" SILENT=true
+[2019.11.20-02.06.40:665][636]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/car144ED9386460233909B29E1B98D3A8D38.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car1.uasset'
+[2019.11.20-02.06.46:485][984]LogSlate: Window 'car1' being destroyed
+[2019.11.20-02.06.46:490][984]LogSlate: Window 'car1' being destroyed
+[2019.11.20-02.06.46:502][984]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.06.52:348][322]Cmd: TRANSACTION UNDO
+[2019.11.20-02.06.52:348][322]LogEditorTransaction: Undo StaticMesh: Material changed
+[2019.11.20-02.07.02:969][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.11.20-02.07.06:671][953]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.20-02.07.06:775][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.20-02.07.06:803][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.20-02.07.06:824][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.20-02.07.11:605][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.20-02.07.15:035][229]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.20-02.07.15:193][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.20-02.07.23:941][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car1.obj)
+[2019.11.20-02.07.23:952][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car1.obj
+[2019.11.20-02.07.23:957][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.42:977][339]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.20-02.07.43:024][339]LogStaticMesh: Building static mesh car1...
+[2019.11.20-02.07.43:026][339]LogStaticMesh: Built static mesh [0.00s] /Game/car1.car1
+[2019.11.20-02.07.43:027][339]LogStaticMesh: Warning: car1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:027][339]LogStaticMesh: Warning: car1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:037][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:037][339]FBXImport: Warning: car1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:037][339]FBXImport: Warning: car1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:060][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car2.obj)
+[2019.11.20-02.07.43:071][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car2.obj
+[2019.11.20-02.07.43:076][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:085][339]LogStaticMesh: Building static mesh car2...
+[2019.11.20-02.07.43:087][339]LogStaticMesh: Built static mesh [0.01s] /Game/car2.car2
+[2019.11.20-02.07.43:089][339]LogStaticMesh: Warning: car2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:089][339]LogStaticMesh: Warning: car2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:100][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:100][339]FBXImport: Warning: car2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:100][339]FBXImport: Warning: car2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:106][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car3.obj)
+[2019.11.20-02.07.43:117][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/car3.obj
+[2019.11.20-02.07.43:122][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:124][339]LogStaticMesh: Building static mesh car3...
+[2019.11.20-02.07.43:126][339]LogStaticMesh: Built static mesh [0.00s] /Game/car3.car3
+[2019.11.20-02.07.43:127][339]LogStaticMesh: Warning: car3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:127][339]LogStaticMesh: Warning: car3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:136][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:136][339]FBXImport: Warning: car3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:136][339]FBXImport: Warning: car3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:143][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/chicken.obj)
+[2019.11.20-02.07.43:154][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/chicken.obj
+[2019.11.20-02.07.43:157][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:159][339]LogStaticMesh: Building static mesh chicken...
+[2019.11.20-02.07.43:161][339]LogStaticMesh: Built static mesh [0.00s] /Game/chicken.chicken
+[2019.11.20-02.07.43:162][339]LogStaticMesh: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:162][339]LogStaticMesh: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:173][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:173][339]FBXImport: Warning: chicken has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:173][339]FBXImport: Warning: chicken has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:180][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj)
+[2019.11.20-02.07.43:195][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj
+[2019.11.20-02.07.43:196][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:197][339]LogStaticMesh: Building static mesh lanegrass...
+[2019.11.20-02.07.43:197][339]LogStaticMesh: Built static mesh [0.00s] /Game/lanegrass.lanegrass
+[2019.11.20-02.07.43:198][339]LogStaticMesh: Warning: lanegrass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:198][339]LogStaticMesh: Warning: lanegrass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:205][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:205][339]FBXImport: Warning: lanegrass has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:205][339]FBXImport: Warning: lanegrass has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:210][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanerailroad.obj)
+[2019.11.20-02.07.43:220][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanerailroad.obj
+[2019.11.20-02.07.43:228][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:232][339]LogStaticMesh: Building static mesh lanerailroad...
+[2019.11.20-02.07.43:237][339]LogStaticMesh: Built static mesh [0.00s] /Game/lanerailroad.lanerailroad
+[2019.11.20-02.07.43:238][339]LogStaticMesh: Warning: lanerailroad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:238][339]LogStaticMesh: Warning: lanerailroad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:248][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:249][339]FBXImport: Warning: lanerailroad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:249][339]FBXImport: Warning: lanerailroad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:255][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad1.obj)
+[2019.11.20-02.07.43:264][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad1.obj
+[2019.11.20-02.07.43:267][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:269][339]LogStaticMesh: Building static mesh laneroad1...
+[2019.11.20-02.07.43:271][339]LogStaticMesh: Built static mesh [0.00s] /Game/laneroad1.laneroad1
+[2019.11.20-02.07.43:272][339]LogStaticMesh: Warning: laneroad1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:272][339]LogStaticMesh: Warning: laneroad1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:281][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:281][339]FBXImport: Warning: laneroad1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:281][339]FBXImport: Warning: laneroad1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:293][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad2.obj)
+[2019.11.20-02.07.43:303][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/laneroad2.obj
+[2019.11.20-02.07.43:304][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:306][339]LogStaticMesh: Building static mesh laneroad2...
+[2019.11.20-02.07.43:306][339]LogStaticMesh: Built static mesh [0.00s] /Game/laneroad2.laneroad2
+[2019.11.20-02.07.43:306][339]LogStaticMesh: Warning: laneroad2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:306][339]LogStaticMesh: Warning: laneroad2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:315][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:315][339]FBXImport: Warning: laneroad2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:315][339]FBXImport: Warning: laneroad2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:321][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lilipad.obj)
+[2019.11.20-02.07.43:330][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lilipad.obj
+[2019.11.20-02.07.43:332][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:333][339]LogStaticMesh: Building static mesh lilipad...
+[2019.11.20-02.07.43:333][339]LogStaticMesh: Built static mesh [0.00s] /Game/lilipad.lilipad
+[2019.11.20-02.07.43:333][339]LogStaticMesh: Warning: lilipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:333][339]LogStaticMesh: Warning: lilipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:342][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:342][339]FBXImport: Warning: lilipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:342][339]FBXImport: Warning: lilipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:348][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/loglong.obj)
+[2019.11.20-02.07.43:357][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/loglong.obj
+[2019.11.20-02.07.43:361][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:363][339]LogStaticMesh: Building static mesh loglong...
+[2019.11.20-02.07.43:366][339]LogStaticMesh: Built static mesh [0.00s] /Game/loglong.loglong
+[2019.11.20-02.07.43:367][339]LogStaticMesh: Warning: loglong has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:367][339]LogStaticMesh: Warning: loglong has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:376][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:376][339]FBXImport: Warning: loglong has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:376][339]FBXImport: Warning: loglong has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:382][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/logshort.obj)
+[2019.11.20-02.07.43:399][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/logshort.obj
+[2019.11.20-02.07.43:402][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:404][339]LogStaticMesh: Building static mesh logshort...
+[2019.11.20-02.07.43:406][339]LogStaticMesh: Built static mesh [0.00s] /Game/logshort.logshort
+[2019.11.20-02.07.43:406][339]LogStaticMesh: Warning: logshort has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:406][339]LogStaticMesh: Warning: logshort has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:415][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:415][339]FBXImport: Warning: logshort has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:415][339]FBXImport: Warning: logshort has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:420][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/police.obj)
+[2019.11.20-02.07.43:427][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/police.obj
+[2019.11.20-02.07.43:432][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:435][339]LogStaticMesh: Building static mesh police...
+[2019.11.20-02.07.43:437][339]LogStaticMesh: Built static mesh [0.00s] /Game/police.police
+[2019.11.20-02.07.43:438][339]LogStaticMesh: Warning: police has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:438][339]LogStaticMesh: Warning: police has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:447][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:447][339]FBXImport: Warning: police has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:447][339]FBXImport: Warning: police has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:452][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/rrlights.obj)
+[2019.11.20-02.07.43:460][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/rrlights.obj
+[2019.11.20-02.07.43:464][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:466][339]LogStaticMesh: Building static mesh rrlights...
+[2019.11.20-02.07.43:467][339]LogStaticMesh: Built static mesh [0.00s] /Game/rrlights.rrlights
+[2019.11.20-02.07.43:468][339]LogStaticMesh: Warning: rrlights has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:468][339]LogStaticMesh: Warning: rrlights has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:476][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:477][339]FBXImport: Warning: rrlights has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:477][339]FBXImport: Warning: rrlights has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:481][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/scar.obj)
+[2019.11.20-02.07.43:497][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/scar.obj
+[2019.11.20-02.07.43:502][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:504][339]LogStaticMesh: Building static mesh scar...
+[2019.11.20-02.07.43:506][339]LogStaticMesh: Built static mesh [0.00s] /Game/scar.scar
+[2019.11.20-02.07.43:507][339]LogStaticMesh: Warning: scar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:507][339]LogStaticMesh: Warning: scar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:516][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:516][339]FBXImport: Warning: scar has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:516][339]FBXImport: Warning: scar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:521][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/taxi.obj)
+[2019.11.20-02.07.43:529][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/taxi.obj
+[2019.11.20-02.07.43:533][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:536][339]LogStaticMesh: Building static mesh taxi...
+[2019.11.20-02.07.43:538][339]LogStaticMesh: Built static mesh [0.00s] /Game/taxi.taxi
+[2019.11.20-02.07.43:538][339]LogStaticMesh: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:539][339]LogStaticMesh: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:549][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:549][339]FBXImport: Warning: taxi has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:549][339]FBXImport: Warning: taxi has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:555][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train1.obj)
+[2019.11.20-02.07.43:564][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train1.obj
+[2019.11.20-02.07.43:573][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:579][339]LogStaticMesh: Building static mesh train1...
+[2019.11.20-02.07.43:585][339]LogStaticMesh: Built static mesh [0.01s] /Game/train1.train1
+[2019.11.20-02.07.43:587][339]LogStaticMesh: Warning: train1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:587][339]LogStaticMesh: Warning: train1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:596][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:596][339]FBXImport: Warning: train1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:596][339]FBXImport: Warning: train1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:602][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train2.obj)
+[2019.11.20-02.07.43:611][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train2.obj
+[2019.11.20-02.07.43:619][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:623][339]LogStaticMesh: Building static mesh train2...
+[2019.11.20-02.07.43:628][339]LogStaticMesh: Built static mesh [0.01s] /Game/train2.train2
+[2019.11.20-02.07.43:630][339]LogStaticMesh: Warning: train2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:631][339]LogStaticMesh: Warning: train2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:640][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:640][339]FBXImport: Warning: train2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:641][339]FBXImport: Warning: train2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:647][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train3.obj)
+[2019.11.20-02.07.43:656][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/train3.obj
+[2019.11.20-02.07.43:666][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:671][339]LogStaticMesh: Building static mesh train3...
+[2019.11.20-02.07.43:677][339]LogStaticMesh: Built static mesh [0.01s] /Game/train3.train3
+[2019.11.20-02.07.43:679][339]LogStaticMesh: Warning: train3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:679][339]LogStaticMesh: Warning: train3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:688][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:688][339]FBXImport: Warning: train3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:688][339]FBXImport: Warning: train3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:703][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree1.obj)
+[2019.11.20-02.07.43:714][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree1.obj
+[2019.11.20-02.07.43:715][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:716][339]LogStaticMesh: Building static mesh tree1...
+[2019.11.20-02.07.43:717][339]LogStaticMesh: Built static mesh [0.00s] /Game/tree1.tree1
+[2019.11.20-02.07.43:717][339]LogStaticMesh: Warning: tree1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:717][339]LogStaticMesh: Warning: tree1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:724][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:724][339]FBXImport: Warning: tree1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:724][339]FBXImport: Warning: tree1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:730][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree2.obj)
+[2019.11.20-02.07.43:739][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree2.obj
+[2019.11.20-02.07.43:741][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:742][339]LogStaticMesh: Building static mesh tree2...
+[2019.11.20-02.07.43:743][339]LogStaticMesh: Built static mesh [0.00s] /Game/tree2.tree2
+[2019.11.20-02.07.43:743][339]LogStaticMesh: Warning: tree2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:743][339]LogStaticMesh: Warning: tree2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:752][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:753][339]FBXImport: Warning: tree2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:753][339]FBXImport: Warning: tree2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:758][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree3.obj)
+[2019.11.20-02.07.43:768][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/tree3.obj
+[2019.11.20-02.07.43:770][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:772][339]LogStaticMesh: Building static mesh tree3...
+[2019.11.20-02.07.43:772][339]LogStaticMesh: Built static mesh [0.00s] /Game/tree3.tree3
+[2019.11.20-02.07.43:773][339]LogStaticMesh: Warning: tree3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:773][339]LogStaticMesh: Warning: tree3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:782][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:782][339]FBXImport: Warning: tree3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:782][339]FBXImport: Warning: tree3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:787][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck1.obj)
+[2019.11.20-02.07.43:797][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck1.obj
+[2019.11.20-02.07.43:801][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:805][339]LogStaticMesh: Building static mesh truck1...
+[2019.11.20-02.07.43:809][339]LogStaticMesh: Built static mesh [0.00s] /Game/truck1.truck1
+[2019.11.20-02.07.43:810][339]LogStaticMesh: Warning: truck1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:810][339]LogStaticMesh: Warning: truck1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:819][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:819][339]FBXImport: Warning: truck1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:820][339]FBXImport: Warning: truck1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:827][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck2.obj)
+[2019.11.20-02.07.43:836][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck2.obj
+[2019.11.20-02.07.43:841][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:845][339]LogStaticMesh: Building static mesh truck2...
+[2019.11.20-02.07.43:848][339]LogStaticMesh: Built static mesh [0.00s] /Game/truck2.truck2
+[2019.11.20-02.07.43:849][339]LogStaticMesh: Warning: truck2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:849][339]LogStaticMesh: Warning: truck2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:859][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:859][339]FBXImport: Warning: truck2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:859][339]FBXImport: Warning: truck2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.43:865][339]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck3.obj)
+[2019.11.20-02.07.43:874][339]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/Models/truck3.obj
+[2019.11.20-02.07.43:883][339]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.07.43:888][339]LogStaticMesh: Building static mesh truck3...
+[2019.11.20-02.07.43:894][339]LogStaticMesh: Built static mesh [0.01s] /Game/truck3.truck3
+[2019.11.20-02.07.43:895][339]LogStaticMesh: Warning: truck3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.11.20-02.07.43:895][339]LogStaticMesh: Warning: truck3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.11.20-02.07.43:905][339]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.07.43:905][339]FBXImport: Warning: truck3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.11.20-02.07.43:905][339]FBXImport: Warning: truck3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.11.20-02.07.46:374][471]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-02.07.46:379][471]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-02.07.54:779][969]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/car1.car1
+[2019.11.20-02.08.02:091][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/car1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car1.uasset" SILENT=true
+[2019.11.20-02.08.02:112][385]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/car167FAA9484ACECD60E34658842987FB0C.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car1.uasset'
+[2019.11.20-02.08.02:857][429]Cmd: SELECT NONE
+[2019.11.20-02.08.04:235][511]LogSlate: Window 'car1' being destroyed
+[2019.11.20-02.08.04:240][511]LogSlate: Window 'car1' being destroyed
+[2019.11.20-02.08.04:241][511]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.08:325][751]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/car2.car2
+[2019.11.20-02.08.13:748][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/car2" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car2.uasset" SILENT=true
+[2019.11.20-02.08.13:775][ 45]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/car2D83D547E4669FA73FD4B8BAE84E7BB34.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car2.uasset'
+[2019.11.20-02.08.14:920][113]LogSlate: Window 'car2' being destroyed
+[2019.11.20-02.08.14:924][113]LogSlate: Window 'car2' being destroyed
+[2019.11.20-02.08.15:055][113]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.19:371][354]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/car3.car3
+[2019.11.20-02.08.23:868][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/car3" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car3.uasset" SILENT=true
+[2019.11.20-02.08.23:888][594]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/car32E5533BB4ADBA8A94ECBA4A95F52000A.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/car3.uasset'
+[2019.11.20-02.08.24:997][660]LogSlate: Window 'car3' being destroyed
+[2019.11.20-02.08.25:003][660]LogSlate: Window 'car3' being destroyed
+[2019.11.20-02.08.25:015][660]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.26:254][722]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/chicken.chicken
+[2019.11.20-02.08.31:721][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chicken" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/chicken.uasset" SILENT=true
+[2019.11.20-02.08.31:739][ 25]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/chickenA36038644AFA4F6710438C8FDD483C9F.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/chicken.uasset'
+[2019.11.20-02.08.32:824][ 89]LogSlate: Window 'chicken' being destroyed
+[2019.11.20-02.08.32:830][ 89]LogSlate: Window 'chicken' being destroyed
+[2019.11.20-02.08.32:841][ 89]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.35:226][219]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lanegrass.lanegrass
+[2019.11.20-02.08.39:136][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lanegrass" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset" SILENT=true
+[2019.11.20-02.08.39:154][420]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/lanegrass0FF0BF004D471AC996A4E5ADB475FD8E.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset'
+[2019.11.20-02.08.40:211][482]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.08.40:216][482]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.08.40:227][482]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.41:612][554]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lanerailroad.lanerailroad
+[2019.11.20-02.08.50:892][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lanerailroad" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanerailroad.uasset" SILENT=true
+[2019.11.20-02.08.50:913][ 81]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/lanerailroadEC9486DD47AC62094845C6AD42FE1BAF.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanerailroad.uasset'
+[2019.11.20-02.08.51:885][138]LogSlate: Window 'lanerailroad' being destroyed
+[2019.11.20-02.08.51:890][138]LogSlate: Window 'lanerailroad' being destroyed
+[2019.11.20-02.08.51:902][138]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.08.54:202][265]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/laneroad1.laneroad1
+[2019.11.20-02.08.58:734][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/laneroad1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/laneroad1.uasset" SILENT=true
+[2019.11.20-02.08.58:752][512]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/laneroad1C5BFB0A24BFFD3933D7C7D8413564C4B.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/laneroad1.uasset'
+[2019.11.20-02.08.59:570][560]LogSlate: Window 'laneroad1' being destroyed
+[2019.11.20-02.08.59:576][560]LogSlate: Window 'laneroad1' being destroyed
+[2019.11.20-02.08.59:588][560]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.00:748][625]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/laneroad2.laneroad2
+[2019.11.20-02.09.03:713][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/laneroad2" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/laneroad2.uasset" SILENT=true
+[2019.11.20-02.09.03:732][775]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/laneroad2681889F145B1A51FED88F9BE042642E4.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/laneroad2.uasset'
+[2019.11.20-02.09.04:682][831]LogSlate: Window 'laneroad2' being destroyed
+[2019.11.20-02.09.04:687][831]LogSlate: Window 'laneroad2' being destroyed
+[2019.11.20-02.09.04:699][831]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.06:006][903]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lilipad.lilipad
+[2019.11.20-02.09.09:785][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lilipad" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lilipad.uasset" SILENT=true
+[2019.11.20-02.09.09:802][106]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/lilipad059632884270A02B20ECF2A06EBC6F6D.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lilipad.uasset'
+[2019.11.20-02.09.10:798][165]LogSlate: Window 'lilipad' being destroyed
+[2019.11.20-02.09.10:806][165]LogSlate: Window 'lilipad' being destroyed
+[2019.11.20-02.09.10:817][165]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.13:924][342]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/loglong.loglong
+[2019.11.20-02.09.18:705][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/loglong" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/loglong.uasset" SILENT=true
+[2019.11.20-02.09.18:723][599]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/loglong7E830E1648C04ED491A26CAC3B1A6FE1.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/loglong.uasset'
+[2019.11.20-02.09.19:617][652]LogSlate: Window 'loglong' being destroyed
+[2019.11.20-02.09.19:622][652]LogSlate: Window 'loglong' being destroyed
+[2019.11.20-02.09.19:632][652]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.20:877][713]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/logshort.logshort
+[2019.11.20-02.09.24:156][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/logshort" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/logshort.uasset" SILENT=true
+[2019.11.20-02.09.24:175][879]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/logshort06FFECE4409E3CD8555168A520293F36.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/logshort.uasset'
+[2019.11.20-02.09.24:851][918]LogSlate: Window 'logshort' being destroyed
+[2019.11.20-02.09.24:856][918]LogSlate: Window 'logshort' being destroyed
+[2019.11.20-02.09.24:867][918]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.25:826][971]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/police.police
+[2019.11.20-02.09.29:650][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/police" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/police.uasset" SILENT=true
+[2019.11.20-02.09.29:669][170]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/policeB12BE353440585642E82F0BF917DA6FB.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/police.uasset'
+[2019.11.20-02.09.30:033][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/police" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/police.uasset" SILENT=true
+[2019.11.20-02.09.30:049][190]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/policeF4E4BCAD42237A90E69BBBB3247CAD86.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/police.uasset'
+[2019.11.20-02.09.30:959][244]LogSlate: Window 'police' being destroyed
+[2019.11.20-02.09.30:966][244]LogSlate: Window 'police' being destroyed
+[2019.11.20-02.09.30:976][244]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.32:358][314]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/rrlights.rrlights
+[2019.11.20-02.09.36:281][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/rrlights" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/rrlights.uasset" SILENT=true
+[2019.11.20-02.09.36:301][523]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/rrlights5F55BE0643FCF6615416B4BD8F475124.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/rrlights.uasset'
+[2019.11.20-02.09.37:206][576]LogSlate: Window 'rrlights' being destroyed
+[2019.11.20-02.09.37:213][576]LogSlate: Window 'rrlights' being destroyed
+[2019.11.20-02.09.37:224][576]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.38:808][661]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/scar.scar
+[2019.11.20-02.09.41:730][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scar" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/scar.uasset" SILENT=true
+[2019.11.20-02.09.41:749][808]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/scar7CAD5D9441129FB5C398E696CAB0D003.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/scar.uasset'
+[2019.11.20-02.09.42:592][857]LogSlate: Window 'scar' being destroyed
+[2019.11.20-02.09.42:599][857]LogSlate: Window 'scar' being destroyed
+[2019.11.20-02.09.42:609][857]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.43:946][928]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/taxi.taxi
+[2019.11.20-02.09.46:904][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/taxi" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/taxi.uasset" SILENT=true
+[2019.11.20-02.09.46:925][ 71]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/taxi5795D0274A8086DB269E64A3E4BC17AC.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/taxi.uasset'
+[2019.11.20-02.09.47:621][112]LogSlate: Window 'taxi' being destroyed
+[2019.11.20-02.09.47:627][112]LogSlate: Window 'taxi' being destroyed
+[2019.11.20-02.09.47:640][112]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.49:100][179]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/train1.train1
+[2019.11.20-02.09.52:611][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/train1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train1.uasset" SILENT=true
+[2019.11.20-02.09.52:638][370]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/train119FF6CB24FF8C29957B105A9CD686C34.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train1.uasset'
+[2019.11.20-02.09.53:840][440]LogSlate: Window 'train1' being destroyed
+[2019.11.20-02.09.53:845][440]LogSlate: Window 'train1' being destroyed
+[2019.11.20-02.09.53:856][440]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.09.55:217][517]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/train2.train2
+[2019.11.20-02.09.58:471][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/train2" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train2.uasset" SILENT=true
+[2019.11.20-02.09.58:498][683]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/train212E9F7D441894A55EB0E6B8BF3F6B0A1.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train2.uasset'
+[2019.11.20-02.09.59:742][757]LogSlate: Window 'train2' being destroyed
+[2019.11.20-02.09.59:748][757]LogSlate: Window 'train2' being destroyed
+[2019.11.20-02.09.59:758][757]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.00:818][809]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/train3.train3
+[2019.11.20-02.10.05:477][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/train3" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train3.uasset" SILENT=true
+[2019.11.20-02.10.05:503][ 57]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/train31EAE17D14986CE3AC3217E8FEC8CBA4D.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/train3.uasset'
+[2019.11.20-02.10.06:549][119]LogSlate: Window 'train3' being destroyed
+[2019.11.20-02.10.06:555][119]LogSlate: Window 'train3' being destroyed
+[2019.11.20-02.10.06:567][119]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.13:005][489]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/tree1.tree1
+[2019.11.20-02.10.17:140][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tree1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree1.uasset" SILENT=true
+[2019.11.20-02.10.17:158][703]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/tree12559A7C744A7536AF9C90392CEF33574.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree1.uasset'
+[2019.11.20-02.10.18:063][756]LogSlate: Window 'tree1' being destroyed
+[2019.11.20-02.10.18:068][756]LogSlate: Window 'tree1' being destroyed
+[2019.11.20-02.10.18:078][756]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.19:343][824]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/tree2.tree2
+[2019.11.20-02.10.23:392][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tree2" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree2.uasset" SILENT=true
+[2019.11.20-02.10.23:415][ 36]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/tree29EE2C86C4D9078A4B81EBBAEEEDCD06E.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree2.uasset'
+[2019.11.20-02.10.24:175][ 80]LogSlate: Window 'tree2' being destroyed
+[2019.11.20-02.10.24:181][ 80]LogSlate: Window 'tree2' being destroyed
+[2019.11.20-02.10.24:191][ 80]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.25:168][134]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/tree3.tree3
+[2019.11.20-02.10.28:239][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tree3" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree3.uasset" SILENT=true
+[2019.11.20-02.10.28:257][290]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/tree34139792A434DDA1DB9C89B9869420304.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/tree3.uasset'
+[2019.11.20-02.10.28:957][331]LogSlate: Window 'tree3' being destroyed
+[2019.11.20-02.10.28:966][331]LogSlate: Window 'tree3' being destroyed
+[2019.11.20-02.10.28:976][331]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.29:960][383]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/truck1.truck1
+[2019.11.20-02.10.32:889][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/truck1" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck1.uasset" SILENT=true
+[2019.11.20-02.10.32:914][527]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/truck15145015F4D0D5493F383409FE6699D3C.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck1.uasset'
+[2019.11.20-02.10.33:504][561]LogSlate: Window 'truck1' being destroyed
+[2019.11.20-02.10.33:508][561]LogSlate: Window 'truck1' being destroyed
+[2019.11.20-02.10.33:519][561]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.34:779][632]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/truck2.truck2
+[2019.11.20-02.10.38:206][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/truck2" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck2.uasset" SILENT=true
+[2019.11.20-02.10.38:225][817]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/truck2830CB68C4A6F3160D939A3A1FA412FDA.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck2.uasset'
+[2019.11.20-02.10.38:958][860]LogSlate: Window 'truck2' being destroyed
+[2019.11.20-02.10.38:965][860]LogSlate: Window 'truck2' being destroyed
+[2019.11.20-02.10.38:974][860]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.40:249][928]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/truck3.truck3
+[2019.11.20-02.10.43:677][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/truck3" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck3.uasset" SILENT=true
+[2019.11.20-02.10.43:703][104]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/truck3DC6E8C524F1DA448AA22C5BA77898418.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck3.uasset'
+[2019.11.20-02.10.51:573][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/truck3" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck3.uasset" SILENT=true
+[2019.11.20-02.10.51:594][574]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/truck3052A68E244D54327D8700CB5EA69EB36.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/truck3.uasset'
+[2019.11.20-02.10.53:403][682]LogSlate: Window 'truck3' being destroyed
+[2019.11.20-02.10.53:409][682]LogSlate: Window 'truck3' being destroyed
+[2019.11.20-02.10.53:420][682]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.10.59:773][ 57]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lanegrass.lanegrass
+[2019.11.20-02.11.31:629][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lanegrass" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset" SILENT=true
+[2019.11.20-02.11.31:661][942]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/lanegrassEF2A73AB4143AB339307FCBF3E3530FB.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset'
+[2019.11.20-02.11.37:120][269]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.11.37:126][269]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.11.37:137][269]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.11.38:806][364]LogActorFactory: Actor Factory created lanegrass
+[2019.11.20-02.11.40:150][444]LogActorFactory: Actor Factory created lanegrass
+[2019.11.20-02.11.41:326][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.11.41:455][518]LogActorFactory: Actor Factory created chicken
+[2019.11.20-02.11.42:333][570]LogActorFactory: Actor Factory created chicken
+[2019.11.20-02.11.45:059][732]Cmd: DELETE
+[2019.11.20-02.11.45:059][732]Cmd: ACTOR DELETE
+[2019.11.20-02.11.45:060][732]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-02.11.45:096][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.11.20-02.11.45:097][732]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.11.20-02.11.46:171][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lanegrass)
+[2019.11.20-02.11.47:037][847]Cmd: DELETE
+[2019.11.20-02.11.47:037][847]Cmd: ACTOR DELETE
+[2019.11.20-02.11.47:038][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.20-02.11.47:061][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.20-02.11.47:061][847]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.20-02.11.48:167][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-02.11.49:411][988]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lanegrass.lanegrass
+[2019.11.20-02.12.01:944][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lanegrass" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset" SILENT=true
+[2019.11.20-02.12.01:964][716]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/lanegrassFB3F3E6E421E31D39559E8B4679E728C.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Content/lanegrass.uasset'
+[2019.11.20-02.12.05:966][955]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.12.05:973][955]LogSlate: Window 'lanegrass' being destroyed
+[2019.11.20-02.12.05:985][955]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2019.11.20-02.12.43:954][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.20-02.12.43:984][  4]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Untitled_1_Auto1F18472EF4F67DA9568F8F281BCCA6B94.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.11.20-02.12.43:991][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.061
+[2019.11.20-02.12.43:991][  4]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2019.11.20-02.12.43:993][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyRoad] ([1] browsable assets)...
+[2019.11.20-02.12.43:994][  4]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CrossyRoad.CrossyRoad]
+[2019.11.20-02.12.43:994][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyRoad]
+[2019.11.20-02.12.43:994][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrossyRoad" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Autosaves/Game/CrossyRoad_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.20-02.12.44:002][  4]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/CrossyRoad_Auto1826561AF401CE87AF52870B2D95F9FCC.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Autosaves/Game/CrossyRoad_Auto1.uasset'
+[2019.11.20-02.12.44:003][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CrossyRoad_Mat] ([1] browsable assets)...
+[2019.11.20-02.12.44:014][  4]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CrossyRoad_Mat.CrossyRoad_Mat]
+[2019.11.20-02.12.44:014][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/CrossyRoad_Mat]
+[2019.11.20-02.12.44:014][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CrossyRoad_Mat" FILE="../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Autosaves/Game/CrossyRoad_Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.20-02.12.44:032][  4]LogSavePackage: Moving '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/CrossyRoad_Mat_Auto13322E2B1400DD104758634BD1E312551.tmp' to '../../../../../../Users/david/Documents/Unreal Projects/Modelstest/Saved/Autosaves/Game/CrossyRoad_Mat_Auto1.uasset'
+[2019.11.20-02.12.44:033][  4]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.11.20-02.12.44:859][ 53]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/lanegrass.lanegrass
+[2019.11.20-02.12.54:293][594]LogEditorFactories: Performing atomic reimport of [C:/Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj]
+[2019.11.20-02.12.54:328][594]LogFbx: Loading FBX Scene from C:/Users/david/Documents/Unreal Projects/Modelstest/Content/Models/lanegrass.obj
+[2019.11.20-02.12.54:329][594]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.20-02.12.54:330][594]LogEditorFactories: Warning: -- import failed
+[2019.11.20-02.12.54:332][594]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.20-02.12.54:332][594]FBXImport: Error: Mesh name: [lanegrass] part name: [default]  could not be created because all of its polygons are degenerate. 
+[2019.11.20-02.12.54:349][594]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
