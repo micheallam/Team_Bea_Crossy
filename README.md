@@ -7,6 +7,6 @@ make sure to double click on the main menu level and press the play button or al
 
 Team members:
 
-Tommy Huynh
-Michael Lam
+Tommy Huynh, 
+Michael Lam,
 David Luu
